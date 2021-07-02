@@ -1,13 +1,19 @@
+import { ImageSourcePropType } from "react-native";
 import {
   FETCH_USER_REQUEST,
   FETCH_USER_SUCCESS,
   FETCH_USER_FAILURE,
 } from "./actionTypes";
 
+export interface AvatarProps {
+  source: ImageSourcePropType;
+} 
+
 export interface IUser {
   createdAt: number;
   id: number;
   name: string;
+  avatar: string
 }
 
 export interface UserState {
