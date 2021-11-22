@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47.206" height="21" viewBox="0 0 47.206 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e6e6e6;
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #973739;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_811" data-name="Group 811" transform="translate(-43.5 -47.5)">
+    <g id="Group_812" data-name="Group 812" transform="translate(50.015 -313.385)">
+      <g id="Rectangle_283" data-name="Rectangle 283" class="cls-1" transform="translate(21.849 362.605)">
+        <rect class="cls-3" width="18.842" height="13.377"/>
+        <rect class="cls-4" x="1" y="1" width="16.842" height="11.377"/>
+      </g>
+      <g id="Rectangle_284" data-name="Rectangle 284" class="cls-1" transform="translate(19.251 364.932)">
+        <rect class="cls-3" width="18.842" height="13.377"/>
+        <rect class="cls-4" x="1" y="1" width="16.842" height="11.377"/>
+      </g>
+      <g id="Rectangle_285" data-name="Rectangle 285" class="cls-1" transform="translate(16.652 367.258)">
+        <rect class="cls-3" width="18.842" height="13.377"/>
+        <rect class="cls-4" x="1" y="1" width="16.842" height="11.377"/>
+      </g>
+    </g>
+    <g id="Group_456" data-name="Group 456" transform="translate(-243 -498)">
+      <g id="Icon_feather-plus" data-name="Icon feather-plus" transform="translate(288 556)">
+        <path id="Path_34" data-name="Path 34" class="cls-2" d="M7.5,18h18" transform="translate(-7.5 -18)"/>
+      </g>
+      <g id="Icon_feather-plus-2" data-name="Icon feather-plus" transform="translate(297 547) rotate(90)">
+        <path id="Path_34-2" data-name="Path 34" class="cls-2" d="M0,0H18"/>
+      </g>
+    </g>
+  </g>
+</svg>
