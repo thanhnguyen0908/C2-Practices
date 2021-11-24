@@ -2,7 +2,6 @@
 
 ## Written during working time at VMO - SDC2, the project aims to improve one's coding skills.
 
-` `
 
 As mentioned in the title, we're going to implement a way to auto import all images in the project's folder.
 
@@ -12,7 +11,6 @@ To begin with, we need to know which image formats are commonly used in Mobile D
 
 ### **Common image file classification**
 
-` `
 
 | Abbreviation | MIME type  | File Extension(s)                | Summary                                                                                 |
 |------------- |------------|--------------------------------- |-----------------------------------------------------------------------------------------|
@@ -237,6 +235,9 @@ Alright, now the finishing touch is to run:
     > nodemon autoImportSvg.js
 
 And we'll have the `index.ts` file containing all imported and exported images as desired.
+
+![image info](./index.png)
+
 
 [//]: #Reference
 [documentation]: <https://reactnative.dev/docs/environment-setup>
